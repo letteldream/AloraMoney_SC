@@ -16,6 +16,7 @@ npx hardhat verify --network bsctestnet 0x4d4a273768ff14d2527308478f03e7C546Ee04
 # update
 npx hardhat run --network bsctestnet scripts/updateAlora.ts
 
+
 #-> Proxy address: 0x9F631a07B9ccd5CAA38b1A93B705DDf03dEa6ea2
 #npx hardhat verify --network bsctestnet 0xb1fD03c099f7C17aA105d6dC3ABB185e58cFfd82 
 #npx hardhat run --network bsctestnet scripts/updateAlora.ts
